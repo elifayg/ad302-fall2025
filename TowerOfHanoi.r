@@ -1,3 +1,4 @@
+# While I was researching, I saw this code. And, I love it <3
 TowerOfHanoi <- function(S, I, D, n) {
   if (n == 1) {
     cat("Move from", S, "to", D, "\n")
