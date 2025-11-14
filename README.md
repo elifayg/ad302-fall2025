@@ -10,6 +10,9 @@ The Tower of Hanoi is a classic recursion problem where you must move `n` disks 
 2. A larger disk cannot be placed on top of a smaller one.
 3. Only the top disk of any peg may be moved.
 
+
+!!! It is not suggested to enter the value bigger than 15!
+
 ---
 
 ## 🐍 Python Version
@@ -56,35 +59,8 @@ main()
 
 ---
 
-## 📁 File Extensions
+## Credit
 
-* Python scripts: `.py`
-* R scripts: `.R`
-* README file: `.md`
+I have many friends from CmpE and I told them this homework. They suggested me to implement a fancy algorithm: Tower of Hanoi. I explored that algorithm and I love the logic. Therefore, I decided to implement this. However, because it is hard to write, my friends studyin CmpE helped me.
 
----
-
-## 🚀 How to Run
-
-### Python
-
-```
-python3 hanoi.py
-```
-
-### R
-
-```
-Rscript hanoi.R
-```
-
----
-
-If you'd like, I can add:
-
-* A visual ASCII representation
-* A version that records moves in a list
-* Complexity explanation
-* Diagrams of recursion
-
-Just tell me!
+Love my all friends from CmpE <3333
