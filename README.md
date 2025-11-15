@@ -63,4 +63,4 @@ main()
 
 I have many friends from CmpE and I told them this homework. They suggested me to implement a fancy algorithm: Tower of Hanoi. I explored that algorithm and I love the logic. Therefore, I decided to implement this. However, because it is hard to write, my friends studying CmpE helped me.
 
-Love my all friends from CmpE <3333
+Thanks to my all friends from CmpE :)
